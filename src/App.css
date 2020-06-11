@@ -512,3 +512,11 @@ h6 {
   }
 }
 /* end of rooms fitler*/
+
+/* copyright */
+.copy_right {
+  background-color: darkgrey;
+  padding: 10px;
+  text-align: center;
+}
+/* endof copyright */
