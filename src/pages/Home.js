@@ -20,7 +20,7 @@ const Home = () => {
       </Hero>
       <Services />
       <FeaturedRooms />
-      <div className='copy_right'>&copy;copyright belongs to Subhasish</div>
+      <div className='copy_right'> Subhasish &copy; 2020</div>
     </React.Fragment>
   );
 };
