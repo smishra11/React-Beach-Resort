@@ -1,6 +1,6 @@
 ## Deploy Link
 
-This app is deployed in Netlify. ### `Link-https://react-beach-resort-sish.netlify.app`
+This app is deployed in Netlify. `Link-https://react-beach-resort-sish.netlify.app`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
