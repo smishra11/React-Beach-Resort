@@ -1,6 +1,6 @@
 ## Deploy Link
 
-This app is deployed in Netlify. Link-https://react-beach-resort-sish.netlify.app
+This app is deployed in Netlify. Link-https://the-react-beach-resort.netlify.app
 
 ### `App Preview`
 ![Screenshot from 2020-08-29 00-54-43](https://user-images.githubusercontent.com/53392598/91607927-4cba5b80-e992-11ea-8e41-a28cfd97f775.png)
